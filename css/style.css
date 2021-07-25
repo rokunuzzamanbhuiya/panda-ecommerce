@@ -1,5 +1,22 @@
-body{
-    margin: 0;
-    padding: 0;
-    font-family: 'Montserrat', sans-serif;
+.bg-color-watch{
+    background-color: #FFD019;
+}
+.watch{
+    height: 100px;
+}
+.bg-color-bag{
+    background-color: #FF136F;
+}
+.bag{
+    height: 100px;
+}
+.bg-color-shoe{
+    background-color: #3F07F8;
+}
+.shoe{
+    height: 100px;
+}
+.form-button{
+    padding-left: 200px;
+    padding-right: 200px;
 }
